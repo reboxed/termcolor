@@ -1,6 +1,6 @@
-module github.com/Reboxed/termcolor
+module code.rebxd.com/Rebxd/termcolor
 
-go 1.13
+go 1.22
 
 require (
 	github.com/mattn/go-isatty v0.0.10
