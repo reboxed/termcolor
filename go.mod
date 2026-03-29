@@ -1,4 +1,4 @@
-module code.rebxd.com/Rebxd/termcolor
+module github.com/reboxed/termcolor
 
 go 1.22
 
