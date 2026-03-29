@@ -6,7 +6,7 @@ This package is heavily inspired by [chalk's support-color](https://github.com/c
 
 ## Install
 ```sh
-go get code.rebxd.com/Rebxd/termcolor
+go get github.com/reboxed/termcolor
 ```
 
 ## Examples
